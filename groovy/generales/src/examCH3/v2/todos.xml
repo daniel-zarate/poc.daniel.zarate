@@ -1,0 +1,6 @@
+<todos>
+    <todo id="1">
+        <name>Buy Beginning Groovy, Grails and Griffon</name>
+        <note>una nota del xml</note>
+    </todo>
+</todos>
